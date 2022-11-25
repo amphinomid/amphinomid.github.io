@@ -22,7 +22,7 @@ function App() {
           Reading
         </a>
         <br /><br />
-        <a href="blog">
+        <a href="/#/blog">
           Musings that I have nowhere else to put
         </a>
         <br /><br />
