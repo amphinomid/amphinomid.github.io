@@ -1,6 +1,6 @@
-import './App.css';
-import Doorway from './images/door.svg';
-import DoorwayOpen from './images/door_open.svg';
+import '../App.css';
+import Doorway from '../images/door.svg';
+import DoorwayOpen from '../images/door_open.svg';
 
 function Garden() {
   return (
