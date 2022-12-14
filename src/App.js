@@ -12,7 +12,7 @@ function App() {
         <br /><br />
         Sometimes I work on coding projects for fun. Their source codes are on{` `}
         <a href="https://github.com/amphinomid">Github</a>.{` `}
-        I also previously did two software engineering internships at Apple, working on Safari.
+        I also previously worked on Safari at Apple during two software engineering internships.
         <br /><br />
         <b>Random stuff</b><br />
         There's a quote from Nuala O'Faolain that I love, that if "there were nothing else,
