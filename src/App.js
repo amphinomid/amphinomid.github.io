@@ -10,7 +10,7 @@ function App() {
         I help out with research in the <a href="https://hci.stanford.edu">HCI Group</a>{` `}
         and write news for <a href="https://stanforddaily.com/author/anne24">The Daily</a>.
         <br /><br />
-        Sometimes I work on coding projects for fun. Their source codes are on{` `}
+        Sometimes I make coding projects for fun. Their source codes are on{` `}
         <a href="https://github.com/amphinomid">Github</a>.{` `}
         I also previously worked on Safari at Apple during two software engineering internships.
         <br /><br />
