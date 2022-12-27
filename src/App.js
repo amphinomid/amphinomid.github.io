@@ -22,6 +22,10 @@ function App() {
           Reading
         </a>
         <br /><br />
+        <a href="https://amphinomid.github.io/luxe">
+          An interactive, 3d depiction of a surveillance tech-fueled world that I've been working on lately
+        </a>
+        <br /><br />
         <a href="/#/blog">
           Musings that I have nowhere else to put
         </a>
