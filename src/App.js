@@ -8,7 +8,7 @@ function App() {
       <div className="Content-inner">
         I'm a third-year Stanford undergrad studying CS and communication.
         I help out with research in the <a href="https://hci.stanford.edu">HCI Group</a>{` `}
-        and write news for <a href="https://stanforddaily.com/author/anne24">The Daily</a>.
+        and write news for <a href="https://stanforddaily.com">The Daily</a>.
         <br /><br />
         Sometimes I make coding projects for fun. Their source codes are on{` `}
         <a href="https://github.com/amphinomid">Github</a>.{` `}
