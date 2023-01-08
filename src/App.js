@@ -15,10 +15,9 @@ function App() {
         I also worked on Safari at Apple during two software engineering internships,
         and was an Apple WWDC scholar before that.
         <br /><br />
-        In a past life I competed in USACO's Gold division and TA'ed C++ and intro
-        USACO prep classes at{` `}
-        <a href="https://alphastar.academy">AlphaStar Academy</a>.{` `}
-        I'm now left with permanent back pain.
+        In a past life I did competitive programming, competing in USACO's Gold division
+        and TA'ing C++ and intro USACO prep classes at{` `}
+        <a href="https://alphastar.academy">AlphaStar Academy</a>.
         <br /><br />
         <b>Random stuff</b><br />
         There's a quote from Nuala O'Faolain that I love, that if "there were nothing else,
