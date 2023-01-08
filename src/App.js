@@ -10,9 +10,15 @@ function App() {
         I help out with research in the <a href="https://hci.stanford.edu">HCI Group</a>{` `}
         and write news for <a href="https://stanforddaily.com">The Daily</a>.
         <br /><br />
-        Sometimes I make coding projects for fun. Their source codes are on{` `}
+        Sometimes I make coding projects for fun. Their source code repos are on{` `}
         <a href="https://github.com/amphinomid">Github</a>.{` `}
-        I also previously worked on Safari at Apple during two software engineering internships.
+        I also worked on Safari at Apple during two software engineering internships,
+        and was an Apple WWDC scholar before that.
+        <br /><br />
+        In a past life I competed in USACO's Gold division and TA'ed C++ and intro
+        USACO prep classes at{` `}
+        <a href="https://alphastar.academy">AlphaStar Academy</a>.{` `}
+        I'm now left with permanent back pain.
         <br /><br />
         <b>Random stuff</b><br />
         There's a quote from Nuala O'Faolain that I love, that if "there were nothing else,
